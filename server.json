@@ -17,6 +17,15 @@
             "price": 60,
             "createdAt": "2023-02-16T16:56:45.679Z"
 
+        },
+        {
+            "id": 3,
+            "description": "Café",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 8,
+            "createdAt": "2023-02-17T16:56:45.679Z"
+
         }
     ]
 }
