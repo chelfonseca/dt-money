@@ -38,6 +38,14 @@
       "category": "happy",
       "type": "income",
       "id": 5
+    },
+    {
+      "description": "ovo",
+      "price": 1,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-10-25T15:01:13.083Z",
+      "id": 6
     }
   ]
 }
